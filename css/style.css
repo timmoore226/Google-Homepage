@@ -1,0 +1,34 @@
+:root {
+    --nav-color: grey;
+    --nav-text: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li .right-nav {
+  float
+}
+
+.header-icon {
+    height: 30px;
+    width: 30px;
+    margin: 8px
+}
