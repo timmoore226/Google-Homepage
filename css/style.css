@@ -11,7 +11,7 @@ ul {
     background-color: white;
 }
 
-li {
+li.left-nav {
     float: left;
 }
 
@@ -23,12 +23,27 @@ li a {
     text-decoration: none;
 }
 
-li .right-nav {
-  float
+li.right-nav {
+  float: right;
 }
 
 .header-icon {
     height: 30px;
     width: 30px;
     margin: 8px
+}
+
+#center {
+  display: block;
+  text-align: center;
+}
+
+#search {
+  padding: 6px 9px 0;
+}
+
+#logo {
+  height: 92px;
+  width: 272px;
+  padding-top: 109px;
 }
